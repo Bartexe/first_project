@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #1F2937;
+    height: 50px;
+    line-height: 50px;
+}
+
+ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+a {
+    color: inherit;
+}
+
+.nav-list li {
+    display: inline-block;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.awesome {
+    background-color: lightgreen;
+    height: 200px;
+}
+.random {
+    height: 200px;
+}
+
+.cutata {
+    background-color: #e5e7eb;
+    height: 200px;
+}
+
+footer {
+    background-color: #1F2937;
+    height: 50px;
+}
